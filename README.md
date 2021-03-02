@@ -1,6 +1,8 @@
 MadApi
 ======
 
+[![MadAPI](https://github.com/MadhousePlatform/api/actions/workflows/laravel.yml/badge.svg?branch=main)](https://github.com/MadhousePlatform/api/actions/workflows/madhouseapi.yml)
+
 The Madhouse API
 
 Useful urls:
